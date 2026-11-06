@@ -1,2 +1,2 @@
-# printer-dos
-A simple tool to DoS a printer by sending junk data over jetdirect protocol.
+# jetdirect-flood
+A simple script to disrupt a printer by flooding junk data over jetdirect protocol.
